@@ -1,0 +1,14 @@
+{
+  "name": "eslint-config-yknight",
+  "version": "1.0.0",
+  "description": "An ESLint configuration for my personal use.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "keywords": [],
+  "author": "Yancy Knight",
+  "license": "ISC"
+}
