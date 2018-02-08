@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-yknight",
+  "name": "eslint-config-yancyknight",
   "version": "1.0.0",
   "description": "An ESLint configuration for my personal use.",
   "main": "index.js",
