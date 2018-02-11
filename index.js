@@ -19,6 +19,7 @@ module.exports = {
                 "outerIIFEBody": 0
             }
         ],
+	"no-useless-escape": "off",
         "linebreak-style": [
             "error",
             "unix"
