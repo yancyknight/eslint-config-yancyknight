@@ -16,9 +16,7 @@ module.exports = {
             "error",
             4,
             {
-                "outerIIFEBody": 0,
-                "ArrayExpression": "off",
-                "ObjectExpression": "off"
+                "outerIIFEBody": 0
             }
         ],
         "linebreak-style": [
